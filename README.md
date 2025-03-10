@@ -1,5 +1,5 @@
 # DeepSearch
-A Collection of Deep Search documents.
+A Collection of Deep Searches
 
  - [The Best Place to Sell Prints Online in 2025](https://deepsearch.banast.as/print-sales-2025.pdf)
  - [Selling Prints on SmugMug](https://deepsearch.banast.as/print-sales-smugmug.pdf)
