@@ -8,6 +8,6 @@ A Collection of Deep Searches
 
 For Posterity
 
-<img src="optimal-tip-to-tip-efficiency.gif">
+<img src="optimal-tip-to-tip-efficiency.gif" width="300px">
 
 - [Optimal Tip-to-Tip Eﬃciency](https://deepsearch.banast.as/optimal-tip-to-tip-efficiency.pdf)
