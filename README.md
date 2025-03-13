@@ -5,9 +5,3 @@ A Collection of Deep Searches
  - [Selling Prints on SmugMug](https://deepsearch.banast.as/print-sales-smugmug.pdf)
  - [VIBE CODING . A Definitive Guide](https://deepsearch.banast.as/vibe-coding.pdf)
  - [November 12, 1963 . Top Secret](https://deepsearch.banast.as/1963-11-12_top-secret.pdf)
-
-For Posterity
-
-<img src="optimal-tip-to-tip-efficiency.gif" width="300px">
-
-- [Optimal Tip-to-Tip Eﬃciency](https://deepsearch.banast.as/optimal-tip-to-tip-efficiency.pdf)
